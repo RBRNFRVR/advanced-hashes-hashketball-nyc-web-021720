@@ -1,4 +1,4 @@
-requiry
+require
 def game_hash
   {
     :home => {
