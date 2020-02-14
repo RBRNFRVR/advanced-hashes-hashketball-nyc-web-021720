@@ -290,3 +290,4 @@ def winning_team
   home_total = 0 
   
 game_hash[:away][:players]
+end
