@@ -1,5 +1,4 @@
-require
-def game_hash
+require 'pry'
   {
     :home => {
       :team_name => "Brooklyn Nets",
